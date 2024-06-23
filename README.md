@@ -43,7 +43,7 @@ The goal of this project is to predict health insurance costs per year using mac
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikit-learn)
 
 ## 📂 Project Structure
-- `Project_Rafa.ipynb`: Jupyter Notebook containing all the code and explanations
+- `Project.ipynb`: Jupyter Notebook containing all the code and explanations
 - `insurance.csv`: Dataset used for the project
 - `README.md`: Project documentation
 
